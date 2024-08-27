@@ -68,7 +68,7 @@ To create a production build of the website, run:
 npm run build
 ```
 ## Deployment
-1. o deploy this website using Netlify:
+- Deploy this website using Netlify:
 
 - Build the project:
 npm run build
