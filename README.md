@@ -4,6 +4,9 @@
 
 Welcome to the portfolio website of Vaibhav Gupta. This website showcases my work, including my skills, projects, experience, and contact information. The site is built with React and Material-UI to provide a responsive and visually appealing user experience.
 
+## Live Preview
+Experience the full functionality of the website in action: [Explore the Live Site Here!](https://vaibhavgupta03.netlify.app/)
+
 ## Table of Contents
 
 - [Features](#features)
