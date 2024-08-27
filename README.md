@@ -92,14 +92,14 @@ Contributions are welcome! To contribute:
 
 
 ## Contact
-### Author: Vaibhav Gupta
-### Email: vaibhavgupta6393@gmail.com
-### GitHub: github.com/vaibhavgupta03
-### LinkedIn: linkedin.com/in/vaibhavgupta03
-### Twitter: twitter.com/vaibhavgupta090
+#### Author: Vaibhav Gupta
+#### Email: vaibhavgupta6393@gmail.com
+#### GitHub: github.com/vaibhavgupta03
+#### LinkedIn: linkedin.com/in/vaibhavgupta03
+#### Twitter: twitter.com/vaibhavgupta090
 
 
-### Key Points:
+## Key Points:
 - **Description**: Overview of what the project is and its purpose.
 - **Features**: Key functionalities and highlights of the portfolio website.
 - **Installation**: Steps to set up the project locally.
